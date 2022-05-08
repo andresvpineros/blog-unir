@@ -53,16 +53,26 @@ header {
 section {
     width: 60%;
     padding: 50px 10%;
+    margin-bottom: 5rem;
 }
 
 .article__title {
     font-size: 30px;
 }
 
+.article__version {
+    font-size: 15px;
+    margin: 15px 0px;
+}
+
 .article__info {
     font-size: 20px;
     margin: 40px 0px;
     line-height: 1.5;
+}
+
+.article__list {
+    margin: 35px 0px;
 }
 
 article img {
